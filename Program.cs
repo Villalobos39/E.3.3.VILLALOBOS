@@ -11,6 +11,9 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            // MIRA KAREN ASI SE PUEDE TRABAJAR EN GITHUB 
+            
+            
             Baraja baraja = new Baraja();
             // CREO EL OBJETO DE LA CLASE PARA MANDAR A LLAMAR A LOS METODOS     
             string opcion; // VARIABLE PARA VALIDAR LOS CASOS
